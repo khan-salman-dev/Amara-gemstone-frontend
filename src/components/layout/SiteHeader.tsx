@@ -22,7 +22,7 @@ export function SiteHeader() {
         <Link href="/" className="group flex items-center gap-3">
           <span className="pebble-mask block size-7 bg-moss transition-transform duration-700 group-hover:rotate-45" />
           <span className="font-display text-xl tracking-tight">
-            Verdant <span className="italic text-moss">&amp; Ore</span>
+            Amara <span className="italic text-moss"> Gemstones</span>
           </span>
         </Link>
 

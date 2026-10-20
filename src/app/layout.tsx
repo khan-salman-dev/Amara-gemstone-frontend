@@ -22,7 +22,7 @@ const karla = Karla({
 
 export const metadata: Metadata = {
   title: {
-    default: "Verdant & Ore — Earth-Traced Gemstones",
+    default: "Amara Gemstones",
     template: "%s",
   },
   description:
